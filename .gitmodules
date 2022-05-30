@@ -1,0 +1,3 @@
+[submodule "php-mvc"]
+	path = php-mvc
+	url = https://github.com/daveh/php-mvc.git
